@@ -1,2 +1,4 @@
-console.log("martin")
-console.log("gretis")   
+var nombre = "martin"
+console.log("resistenciia") 
+
+console.log(5+7)   
